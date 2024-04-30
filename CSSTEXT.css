@@ -1,0 +1,30 @@
+h2{
+    color:purple;
+    background: powderblue;
+}
+#c{
+    background: yellowgreen;
+}
+#D{
+    background: pink;
+}
+#E{
+    color:yellow;
+    background: cadetblue;
+    
+}
+*{
+    background-color: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaFX_4hpeh5LSZKD02nxVrWQuH8ooBdc7xmpxSuwlauA&s;
+}
+pre{
+    color: brown;
+}
+hr{
+    height: 5;
+    background:black;
+}
+button{
+    color: red;
+    background:yellow;
+    
+}
