@@ -13,9 +13,9 @@ h2{
     background: cadetblue;
     
 }
-*{
+/* *{
     background-color: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaFX_4hpeh5LSZKD02nxVrWQuH8ooBdc7xmpxSuwlauA&s;
-}
+} */
 pre{
     color: brown;
 }
@@ -28,3 +28,8 @@ button{
     background:yellow;
     
 }
+#sh{
+    display: inline-block;
+    margin-left:  900px;
+}
+
